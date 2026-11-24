@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0%3A0b0b14%2C45%3A6d28d9%2C100%3A22d3ee&height=110&section=header&animation=fadeIn" alt="Developer analytics header" width="10%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0%3A0b0b14%2C45%3A6d28d9%2C100%3A22d3ee&height=110&section=header&animation=fadeIn" alt="Developer analytics header" width="50%" />
 
 </div>
 
