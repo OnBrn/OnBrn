@@ -25,7 +25,8 @@ Learning the latest things in my profession</p>
 </div>
 
 ## About me
-
+- 📍 **Based in:** U.S.A
+- 
 I came, created , learned
   -  
 Learning the latest things in my profession
@@ -56,9 +57,8 @@ Learning the latest things in my profession
 
 </div>
 
-## About me
 
-- 📍 **Based in:** U.S.A
+
 
 ## Tech stack
 
